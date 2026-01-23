@@ -1,19 +1,11 @@
-import React from "react";
 import NavBar from "../CommonModule/NavBarModule/NavBar";
-import styles from "./Upload.module.css";
+import Styles from "./Upload.module.css";
 
 const Upload = () => {
     return (
-        <>
+        <div className={Styles.container}>
             <NavBar />
-            <div className={styles.dev}>
-                <h1>Under Construction</h1>
-                <p>
-                    Our team is working on this page functionality and it will
-                    be available soon.
-                </p>
-            </div>
-        </>
+        </div>
     );
 };
 
