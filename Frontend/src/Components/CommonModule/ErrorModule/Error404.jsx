@@ -13,7 +13,12 @@ const Error404 = () => {
             className={Styles.errorImage}
           />
         </div>
-        <Link to="/" className={Styles.homeButton}>
+        <Link
+          to="/"
+          className={Styles.homeButton}
+          role="button"
+          aria-label="Go to Home"
+        >
           Go to Home
         </Link>
       </div>
