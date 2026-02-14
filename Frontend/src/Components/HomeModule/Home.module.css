@@ -11,6 +11,8 @@
 
 .navbarWrapper {
     display: block;
+    position: relative;
+    z-index: 1000;
 }
 
 .footerWrapper {
@@ -120,7 +122,7 @@
 /* Mobile Responsive Styles */
 @media (max-width: 768px) {
     .navbarWrapper {
-        display: none;
+        display: block;
     }
 
     .footerWrapper {
