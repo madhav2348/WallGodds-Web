@@ -327,6 +327,42 @@ Category: Desktop
 - **Designer**: Sahithya 
 - **Category**: Mobile
 
+## 42. [Hasini]_[404].png
+- **Title**: 404 — Motivation Not Found
+- **Description**: A playful 404 screen capturing the mood when motivation goes offline.
+- **Designer**: Hasini Gundrathi
+- **Category**: Desktop
+
+## 43. [Hasini]_[Begin].png
+- **Title**: Just Begin
+- **Description**: A stark, architectural visual that echoes one simple truth—starting is the hardest and most powerful step.
+- **Designer**: Hasini Gundrathi
+- **Category**: Desktop
+
+## 44. [Hasini]_[Captured].png
+- **Title**: Captured
+- **Description**: A quiet sunset by the water, where the city pauses and light lingers a little longer.
+- **Designer**: Hasini Gundrathi
+- **Category**: Desktop
+
+## 45. [Hasini]_[CityScapes].png
+- **Title**: CityScapes
+- **Description**: A sunset in a city where buildings glow and the day slowly exhales.
+- **Designer**: Hasini Gundrathi
+- **Category**: Desktop
+
+## 46. [Hasini]_[Faah!].png
+- **Title**: Faah!
+- **Description**: A minimalist definition for the moment when words feel heavier than silence.
+- **Designer**: Hasini Gundrathi
+- **Category**: Desktop
+
+## 47. [Hasini]_[Love].png
+- **Title**: Love
+- **Description**: A soft, pixel-sweet expression of affection—where feelings say more than words ever could.
+- **Designer**: Hasini Gundrathi
+- **Category**: Mobile
+
 
 WallGodds values creativity and collaboration. We can't wait to see your contributions! If you have any questions or need help, feel free to connect with our community on [Discord](https://discord.gg/kTQ5KWANp8).  
 
