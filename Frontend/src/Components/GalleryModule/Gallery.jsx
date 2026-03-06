@@ -86,6 +86,7 @@ const Gallery = () => {
       route: "/gallery/mobile",
     },
   ];
+  
 
   useEffect(() => {
     if (location.pathname === "/gallery" || location.pathname === "/gallery/") {

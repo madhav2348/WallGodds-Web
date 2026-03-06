@@ -102,6 +102,8 @@
   cursor: grab;
   user-select: none;
   scrollbar-width: none;
+  touch-action: pan-x;  
+  -webkit-overflow-scrolling: touch; 
 }
 
 .scrollItems::-webkit-scrollbar {
@@ -216,16 +218,17 @@
     height: 1.75rem;
     gap: 0.9rem;
     -webkit-overflow-scrolling: touch;
+    touch-action: pan-x;
   }
 
   .categoryCard {
     min-width: 5.5rem;
     height: 1.75rem;
-    border-radius: 0.8rem;
+    border-radius: 1.42913rem;
   }
 
   .categoryCard::after {
-    border-radius: 0.8rem;
+  border-radius: 1.42913rem;
   }
 
   .categoryTitle {
