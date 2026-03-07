@@ -313,13 +313,12 @@
     .actions .profile {
         width: auto;
         height: 1.6rem;
-        
         border-radius: 0.35rem;
     }
 
     .actions .profile button {
         font-size: 0.9rem;
-        padding: 0 0.6rem 0.06rem 0.6rem;
+        padding: 0 0.6rem 0.071rem 0.6rem;
     }    
 
     .actions .search:not(.open) {
